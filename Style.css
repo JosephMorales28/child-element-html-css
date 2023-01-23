@@ -1,0 +1,18 @@
+body {
+    background:#3d3d3d;
+    color:white;
+}
+ul,li{
+    list-style-type:none;
+    color:lightblue;
+    font-size:1.5em;
+}
+li:first-child{
+    color:#ddd000;
+}
+li:nth-child(3){
+    color:black;
+}
+li:last-child{
+    color:#ffffff;
+}
